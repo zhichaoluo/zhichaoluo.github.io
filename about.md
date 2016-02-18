@@ -1,18 +1,12 @@
 ---
 layout: page
 title: "About"
-description: "学苟知本，六经皆我注脚 "
-header-img: "img/green.jpg"
+description: "鹏之徙于南冥也，水击三千里，抟扶摇而上者九万里"
+header-img: "img/whale-152439.png"
 ---
 
 
-<center>
-    <p><img src="http://7xlfkx.com1.z0.glb.clouddn.com/white2.jpg" align="center"></p>
-</center>
 
-我是陈素封，每天千字践行者，践行时间：2014年02月10日至2015年02月23日，感谢这段经历，让我成为了现在的我。
-
-现在研习 **认知写作学** 。
 
 ###坚信
 
