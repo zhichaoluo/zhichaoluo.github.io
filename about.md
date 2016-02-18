@@ -6,7 +6,7 @@ header-img: "img/zhihu.jpg"
 ---
 
 <center>
-    <p><img src="img/about-me.png" align="center"></p>
+    <p><img src="https://raw.githubusercontent.com/yphuang/yphuang.github.io/master/img/about-me.png" align="center"></p>
 </center>
 
 我是黄耀鹏，厦门大学统计系硕士生，当前的目标是成为一名数据科学研究者及科普写作者。
