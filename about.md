@@ -2,10 +2,12 @@
 layout: page
 title: "About"
 description: "鹏之徙于南冥也，水击三千里，抟扶摇而上者九万里"
-header-img: "img/whale-152439.png"
+header-img: "img/twitter.png"
 ---
 
-
+<center>
+    <p><img src="https://pixabay.com/static/uploads/photo/2013/07/12/17/47/whale-152439_960_720.png" align="center"></p>
+</center>
 
 
 ###坚信
