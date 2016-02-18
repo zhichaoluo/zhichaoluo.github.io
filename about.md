@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "关于我"
+title: "About Me"
 description: "鹏之徙于南冥也，水击三千里，抟扶摇而上者九万里"
 header-img: "img/zhihu.jpg"
 ---
