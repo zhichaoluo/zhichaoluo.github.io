@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "About"
+title: "关于我"
 description: "鹏之徙于南冥也，水击三千里，抟扶摇而上者九万里"
 header-img: "img/twitter.jpg"
 ---
@@ -10,7 +10,7 @@ header-img: "img/twitter.jpg"
 </center>
 
 
-###坚信
+###
 
 
 - 元认知乃一切之源
