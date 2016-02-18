@@ -12,12 +12,6 @@ owner:
   email: brightbirdhuang@gmail.com
   bio: ""
 
-# List of links in the navigation bar
-navbar-links:
-  Home: ""
-  About Me: "aboutme"
-  Author's home: "http://yphuang.github.io"
-
 # Data
 gavatar: http://dreamofbook.qiniudn.com/Az..png
 favicon: img/favicon.png
@@ -34,13 +28,12 @@ zhihu_username: brightbirdhuang
 # document: http://jekyllrb.com/docs/configuration/#kramdown  
 markdown: kramdown
 highlighter: pygments
-permalink: pretty
 paginate: 8
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 relative_permalinks: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone: Asia/Xiamen
+timezone: Asia/Beijing
 
 # Defaults for posts
 defaults:
