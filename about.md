@@ -1,68 +1,45 @@
 ---
 layout: page
-title: "About"
+title: "About Me"
 description: "鹏之徙于南冥也，水击三千里，抟扶摇而上者九万里"
-header-img: "img/twitter.jpg"
+header-img: "img/zhihu.jpg"
 ---
 
 <center>
-    <p><img src="img/about-me.png" align="center"></p>
+    <p><img src="https://raw.githubusercontent.com/yphuang/yphuang.github.io/master/img/about-me.png" align="center"></p>
 </center>
 
+我是黄耀鹏，厦门大学统计系硕士生，当前的目标是成为一名数据科学研究者及科普写作者。
 
-###坚信
-
-
-- 元认知乃一切之源
-- 学苟知本，六经皆我注脚 
-- 一切技能皆可习得，包括写作
-- 「持续」并不是坚持，写就是最好的回报
+### 使用工具
 
 
-###关注：
+- 常用R
+- 学习python
+- 掌握SAS，MySQL（曾经）
+- 了解hadoop（的配置）
 
 
-- [元认知](http://www.mesule.com/)
-- 写作
-- Python
-- [阳志平](http://www.yangzhiping.com/)
-- [ZoomQuiet](http://blog.zoomquiet.io/)
+### 喜欢
+
+
+- 编程
+- 小说&历史
+- 羽毛球，跑步
+- 偶尔沉迷象棋
+- 最近在闲暇之余刷刷美剧
 
 
 
 
-###代表作：
-
-- [《24款最值得推荐的中文字体》](http://cnfeat.com/blog/2015/05/22/a-24-chinese-fonts/)
-
-- [《世界并非如你所见——用可供性来发现更大的世界》](http://cnfeat.com/blog/2015/05/01/affordance/)
-
-- [《如何正确地练习写作》](http://cnfeat.com/blog/2015/03/02/how-to-write/)
 
 
-###我的朋友们
+### 联系我
 
-- [YiLee](http://yilee.me)
-- [Caos](http://caos.me)
-- [BuzhiNote](http://BuzhiNote.com)
-- [Azeril](http://azeril.me)
+- [博客](http://yphuang.github.io/about/)
 
-###联系
+- [知乎@黄耀鹏](https://www.zhihu.com/people/brightbirdhuang)
 
-- [博客：www.cnfeat.com](www.cnfeat.com)
-
-- [微博@CnFeat](http://weibo.com/207775270)
-
-- [知乎@陈素封](http://www.zhihu.com/people/Feat)
-
-- [知乎专栏](http://zhuanlan.zhihu.com/cnfeat)
-
-- 公众号：cnfeat
-
-
-<center>
-    <p><img src="http://i173.photobucket.com/albums/w63/cnfeat/2015-08-29-2_zpsqj7po8eo.png" align="center"></p>
-</center>
 
 
 
