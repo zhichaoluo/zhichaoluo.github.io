@@ -12,6 +12,12 @@ owner:
   email: brightbirdhuang@gmail.com
   bio: ""
 
+# List of links in the navigation bar
+navbar-links:
+  Home: ""
+  About Me: "aboutme"
+  Author's home: "http://yphuang.github.io"
+
 # Data
 gavatar: http://dreamofbook.qiniudn.com/Az..png
 favicon: img/favicon.png
@@ -34,7 +40,7 @@ exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 relative_permalinks: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone: Asia/Beijing
+timezone: Asia/Xiamen
 
 # Defaults for posts
 defaults:
