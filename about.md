@@ -6,7 +6,7 @@ header-img: "img/twitter.jpg"
 ---
 
 <center>
-    <p><img src="https://pixabay.com/static/uploads/photo/2013/07/12/17/47/whale-152439_960_720.png" align="center"></p>
+    <p><img src="img/about-me.png" align="center"></p>
 </center>
 
 
