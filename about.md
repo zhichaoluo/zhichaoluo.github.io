@@ -2,7 +2,7 @@
 layout: page
 title: "About"
 description: "鹏之徙于南冥也，水击三千里，抟扶摇而上者九万里"
-header-img: "img/twitter.png"
+header-img: "img/twitter.jpg"
 ---
 
 <center>
