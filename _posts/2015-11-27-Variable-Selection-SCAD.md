@@ -64,7 +64,7 @@ $$
 
 SCAD的罚函数与$\theta$的(近似)关系如下图所示。
 
-![](img/SCAD_figure1.jpg)
+![](https://github.com/yphuang/yphuang.github.io/blob/master/img/SCAD_figure1.jpg)
 
 可见，罚函数可以用二阶泰勒展开逼近。
 
@@ -75,7 +75,7 @@ $$
 
 Hard Penality,lasso,SCAD的系数压缩情况VS系数真实值的情况如下图所示。
 
-![](img/SCAD_figure2.jpg)
+![](https://github.com/yphuang/yphuang.github.io/blob/master/img/SCAD_figure2.jpg)
 
 可以看到，lasso压缩系数是始终有偏的，Hard penality是无偏的，但压缩系数不连续。而SCAD既能连续的压缩系数，也能在较大的系数取得渐近无偏的估计。
 
@@ -104,7 +104,7 @@ $$
 $$
 
 
-在$\beta_{j0}\neq 0$时，罚函数可以用二阶泰勒展开逼近。
+在$$\beta_{j0}\neq 0$$时，罚函数可以用二阶泰勒展开逼近。
 
 $$
 p_{\lambda} \approx p_{\lambda}(|\beta_{j0}|) +\frac{1}{2}\left\{ {p_{\lambda}}'(|\beta_{j0}|)/|\beta_{j0}|  \right\}({\beta_j}^2 - {\beta_{j0}}^2)
