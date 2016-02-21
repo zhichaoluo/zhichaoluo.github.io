@@ -32,7 +32,7 @@ tags: [github,jekyll,Rmarkdown]
 
 - [在Github Pages中集成多说评论插件](http://code4pub.github.io/tech/2014/05/04/integrate-with-duoshuo-comment/>)
 
-## 添加`.md`文件的$\LaTeX$支持
+## 添加`.md`文件的$$\LaTeX$$支持
 
 在`_layouts/post.html`文件下，添加一行代码：
 
