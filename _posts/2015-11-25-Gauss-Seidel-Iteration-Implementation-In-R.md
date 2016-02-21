@@ -206,7 +206,6 @@ cbind(coeff_glm,b.best,b_real)
 迭代结果如下：
 
 $$
-
 \begin{table}[ht]
 \centering
 \begin{tabular}{rrrr}
