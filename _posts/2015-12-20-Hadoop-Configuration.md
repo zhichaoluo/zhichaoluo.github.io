@@ -40,7 +40,7 @@ Hadoop的主体由Java语言写成，能够在任意一个安装了JVM的平台�
 
 - [百度经验](http://jingyan.baidu.com/article/0bc808fc906bf91bd485b92a.html)
 
--[官方文档](http://partnerweb.vmware.com/GOSIG/Ubuntu_14_04.html)
+- [官方文档](http://partnerweb.vmware.com/GOSIG/Ubuntu_14_04.html)
 
 
 
@@ -121,6 +121,8 @@ Hadoop控制脚本依赖SSH来执行针对整个集群的操作。
 > Xshell offers many user friendly features that are not available in other terminal emulators.
 
 > Xshell is free for home and school use.
+
+简单一句话，就是可以在Windows上远程登录Linux服务器的一个免费软件。
 
 进一步了解和下载安装软件，可以访问这里：
 
