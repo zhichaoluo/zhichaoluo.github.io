@@ -36,6 +36,7 @@ header-img: "img/whale_AboutMe.jpg"
 - [肖凯老师](http://xccds1977.blogspot.jp/)
 - [任坤学长](http://renkun.me/)
 - [好友Kitty](http://norris-niu.github.io/)
+- [好友武雄](http://fibears.top/)
 
 
 ### 联系我
