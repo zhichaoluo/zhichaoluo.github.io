@@ -2,7 +2,7 @@
 layout: page
 title: "Tags"
 description: "We are drowning in information and starving for knowledge."  
-header-img: "img/semantic.jpg"  
+header-img: "img/ice_land.jpg"  
 ---
 
 ##本页使用方法
