@@ -1,14 +1,29 @@
 ---
 layout: page
-title: "milestone"
-description: "知之真切笃实处即是行，行之明觉精察处即是知 "
+title: "Series"
+description: " 不积跬步，无以至千里；不积小流，无以成江海 "
 header-img: "img/milestone.jpg"
 ---
 
 
 
 
-###代表作：
+### 『深入理解SAS』系列：
+
+- [深入理解SAS之数据指针和PDV流程](http://yphuang.github.io/blog/2016/02/27/Understanding-SAS-PDV/)
+
+- [深入理解SAS之批量数据导入](http://yphuang.github.io/blog/2016/03/03/Uderstanding-SAS-Import-Data-In-Batch/)
+
+
+### 『R文本挖掘』系列：
+
+- [R中的正则表达式及字符处理函数总结](http://yphuang.github.io/blog/2016/02/29/R-Regular-Expressions-And-String-Functions/)
+
+- [R爬虫之京东商城手机信息批量获取](http://yphuang.github.io/blog/2016/01/21/R-Scraing-JD-MobilePhone-Information/)
+
+- [R爬虫之上市公司公告批量下载](http://yphuang.github.io/blog/2016/03/01/Get-Listed-Company-Announcement/)
+
+- [文本挖掘之一口气读完花千骨](http://yphuang.github.io/2015/08/02/Text-mining-hua-qian-gu/)
 
 
 
