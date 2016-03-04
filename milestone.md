@@ -23,6 +23,8 @@ header-img: "img/milestone.jpg"
 
 - [R爬虫之上市公司公告批量下载](http://yphuang.github.io/blog/2016/03/01/Get-Listed-Company-Announcement/)
 
+- [R文本挖掘之tm包](http://yphuang.github.io/blog/2016/03/04/text-mining-tm-package/)
+
 - [文本挖掘之一口气读完花千骨](http://yphuang.github.io/2015/08/02/Text-mining-hua-qian-gu/)
 
 
