@@ -25,6 +25,8 @@ header-img: "img/milestone.jpg"
 
 - [R文本挖掘之tm包](http://yphuang.github.io/blog/2016/03/04/text-mining-tm-package/)
 
+- [R文本分类之RTextTools包](http://yphuang.github.io/blog/2016/03/05/R-data-mining-RTextTools/)
+
 - [文本挖掘之一口气读完花千骨](http://yphuang.github.io/2015/08/02/Text-mining-hua-qian-gu/)
 
 
