@@ -6,7 +6,14 @@ header-img: "img/milestone.jpg"
 ---
 
 
+### 讲座
 
+- [R数据可视化之ggplot2](https://github.com/wise-r/R-Topics/blob/master/2.ggplot2/Think_ggplot2_draft.Rmd)
+
+- [正则表达式及R字符串处理](https://github.com/wise-r/R-Topics/blob/master/6.regular-expression-and-strings-prossing/2016-03-10-regular-expression-and-strings-processing-in-R.Rmd)
+
+
+***
 
 ### 『深入理解SAS』系列：
 
