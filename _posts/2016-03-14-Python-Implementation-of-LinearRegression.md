@@ -2,7 +2,7 @@
 layout: post
 title: "使用Python进行线性回归"
 author: "yphuang"
-date: 2016-02-27
+date: 2016-03-14
 categories: blog
 tags: [Python,线性回归,sklearn]
 
