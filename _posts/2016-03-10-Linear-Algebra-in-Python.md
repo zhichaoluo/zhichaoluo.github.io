@@ -117,17 +117,17 @@ def magnitude(v):
 
 ### 向量的距离
 ##### method 1:
-squared_distance(v,w):
+def squared_distance(v,w):
     """"""
     return sum_of_squares(vector_substract(v,w))
 
 
 ##### method 2:
-distance(v,w):
+def distance(v,w):
     return magnitude(vector_substract(v,w))
 
 ##### method 3:
-distance(v,w):
+def distance(v,w):
     return math.sqrt(squared_distance(v,w))
 ```
 
