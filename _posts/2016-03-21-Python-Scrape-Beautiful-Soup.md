@@ -277,7 +277,7 @@ plt.show()
 ```
 
 <center>
-    <p><img src="https://raw.githubusercontent.com/yphuang/yphuang.github.io/master/img/Gradient_descent.png" align="center"></p>
+    <p><img src="https://raw.githubusercontent.com/yphuang/yphuang.github.io/master/figure/2016-03-21-Python-Scrape-Beautiful-Soup/Douban_Top250_movies.png" align="center"></p>
 </center>
 
 
