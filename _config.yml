@@ -2,14 +2,14 @@
 title: 数据科学沉思录
 header-img: "img/meditations_1.jpg"
 tagline: "cn"  
-description: "黄耀鹏|技术分享.思想结晶"  
+description: "rokia"  
 baseurl: ""
-url: "http://yphuang.github.io"  
+url: "http://zhichaoluo.github.io"  
 
 # About/contact
 owner: 
-  name: " yphuang"
-  email: brightbirdhuang@gmail.com
+  name: " zhichaoluo"
+  email: 
   bio: ""
 
 # Data
@@ -18,10 +18,10 @@ favicon: img/favicon.png
 
 douban_username:  
 #twitter_username: 
-github_username: brightbird
+github_username: zhichaoluo
 #facebook_username: 
 #weibo_username: 
-zhihu_username: brightbirdhuang
+zhihu_username: zhichaoluo
 
 # Build settings  
 # use Github Flavored Markdown !important  
