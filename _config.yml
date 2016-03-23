@@ -1,5 +1,5 @@
 # Site settings
-title: 数据科学沉思录
+title: Rokia's Git Site
 header-img: "img/meditations_1.jpg"
 tagline: "cn"  
 description: "rokia"  
@@ -43,7 +43,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "yphuang"
+      author: "rokia"
       header-img: "img/green.jpg" # We don't want posts without a header image, that whould mean white on white
 
 # Comments 
