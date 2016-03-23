@@ -9,8 +9,8 @@ url: "http://zhichaoluo.github.io"
 # About/contact
 owner: 
   name: " zhichaoluo"
-  email: 
-  bio: ""
+  email: "1814347@qq.com"
+  bio: "数据科学爱好者，主要兴趣为数据分析、数据挖掘、R语言开发、量化投资、电力营销数据分析。"
 
 # Data
 gavatar: http://dreamofbook.qiniudn.com/Az..png
@@ -21,7 +21,7 @@ douban_username:
 github_username: zhichaoluo
 #facebook_username: 
 #weibo_username: 
-zhihu_username: zhichaoluo
+zhihu_username: 
 
 # Build settings  
 # use Github Flavored Markdown !important  
