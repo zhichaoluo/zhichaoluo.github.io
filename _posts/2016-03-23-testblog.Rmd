@@ -4,10 +4,19 @@ title: "test"
 author: "rokia"
 date: 2016-03-04
 categories: blog
-tags: [R,tm,文本挖掘]
+tags: [test]
 
 ---
 
 ## 认识tm包
 
 tm包是R文本挖掘方面不可不知也不可不用的一个package。它提供了文本挖掘中的综合处理功能。如：数据载入，语料库处理，数据预处理，元数据管理以及建立“文档-词条”矩阵。
+
+```{r}
+x<-1:10
+y<-1:10
+plot(x,y)
+```
+
+$$\sqrt{x+y}$$
+
