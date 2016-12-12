@@ -2,13 +2,13 @@
 title: MIKE MEY's Git Site
 header-img: "img/meditations_1.jpg"
 tagline: "cn"  
-description: "Mekong"  
+description: "MIKE"  
 baseurl: ""
 url: "http://meikang168.github.io"  
 
 # About/contact
 owner: 
-  name: "  Mekong"
+  name: " MIKE MEY"
   email: "meikang168@gmail.com"
   bio: "厦大生态学在学研究生，R语言初学者，数据分析。"
 
@@ -19,8 +19,8 @@ favicon: img/favicon.png
 douban_username:  
 #twitter_username: 
 github_username: meikang168
-#facebook_username: Mike Smith
-#weibo_username: 康梅奈尔
+facebook_username: Mike Smith
+weibo_username: 康梅奈尔
 zhihu_username: 康梅奈尔
 
 # Build settings  
