@@ -1,16 +1,16 @@
 # Site settings
-title: Rokia's Git Site
+title: MIKE MEY's Git Site
 header-img: "img/meditations_1.jpg"
 tagline: "cn"  
-description: "rokia"  
+description: "MIKE"  
 baseurl: ""
-url: "http://zhichaoluo.github.io"  
+url: "http://meikang168.github.io"  
 
 # About/contact
 owner: 
-  name: " zhichaoluo"
-  email: "1814347@qq.com"
-  bio: "数据科学爱好者，主要兴趣为数据分析、数据挖掘、R语言开发、量化投资、电力营销数据分析。"
+  name: " MIKE MEY"
+  email: "meikang168@gmail.com"
+  bio: "厦大生态学在学研究生，R语言初学者，数据分析。"
 
 # Data
 gavatar: http://dreamofbook.qiniudn.com/Az..png
@@ -18,10 +18,10 @@ favicon: img/favicon.png
 
 douban_username:  
 #twitter_username: 
-github_username: zhichaoluo
-#facebook_username: 
-#weibo_username: 
-zhihu_username: 
+github_username: meikang168
+facebook_username: Mike Smith
+weibo_username: 康梅奈尔
+zhihu_username: 康梅奈尔
 
 # Build settings  
 # use Github Flavored Markdown !important  
@@ -43,7 +43,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "rokia"
+      author: "Mekong"
       header-img: "img/green.jpg" # We don't want posts without a header image, that whould mean white on white
 
 # Comments 
